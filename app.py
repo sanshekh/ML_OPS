@@ -10,6 +10,9 @@ app = Flask(__name__)  # Flask app initialization
 def homepage():
     return render_template("index.html")
 
+# @app.route("/")
+# def hello_world():
+#     return "<p>Hello, World!</p>"
 
 @app.route('/train', methods=["GET"]) # Route to train the pipeline
 def training():
