@@ -1,8 +1,6 @@
 # ML_OPS
 ML models start_to_end solution
 
-# 074037078509.dkr.ecr.us-east-1.amazonaws.com/ml-ops --- ECR Registry
-
 # End-to-end-ML-Project
 
 
